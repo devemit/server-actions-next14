@@ -22,8 +22,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-# Project Title
-
 ## Server Actions with Prisma, TypeScript, MySQL, and Next.js 14
 
 This project showcases the implementation of server actions using Prisma for database interaction, TypeScript for type safety, MySQL as the database, and Next.js 14 for the frontend. The focus is on handling loading states during server-side actions.
