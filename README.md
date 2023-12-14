@@ -22,12 +22,28 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+# Project Title
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Server Actions with Prisma, TypeScript, MySQL, and Next.js 14
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This project showcases the implementation of server actions using Prisma for database interaction, TypeScript for type safety, MySQL as the database, and Next.js 14 for the frontend. The focus is on handling loading states during server-side actions.
+
+The project is a todo app with add todo and delete todo.
+
+## Technologies Used
+
+- Prisma
+- TypeScript
+- MySQL
+- Next.js 14
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   ```
 
 ## Deploy on Vercel
 
