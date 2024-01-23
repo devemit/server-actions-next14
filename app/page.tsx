@@ -1,6 +1,4 @@
-import { createTodo } from '@/actions/createTodo';
 import { getAllTodos } from '@/actions/getAllTodos';
-import { deleteTodo } from '@/actions/deleteTodo';
 import Form from '@/components/form';
 import Todo from '@/components/todo';
 
